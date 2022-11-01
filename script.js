@@ -137,7 +137,7 @@ window.addEventListener('scroll', function () {
 
 const obsCallback = function (entries, observer) {
   entries.forEach(entry => {
-    console.log(entry);
+    // console.log(entry);
   });
 };
 
